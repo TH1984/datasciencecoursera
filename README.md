@@ -1,2 +1,2 @@
 # datasciencecoursera
-To Study about Data Science
+Study Data Science
